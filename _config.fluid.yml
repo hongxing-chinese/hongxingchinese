@@ -604,8 +604,8 @@ post:
   # 文章底部自定义区域（位于 footer 上方），支持 HTML，可插入赞赏码、公众号这类内容内容
   # Custom content at the bottom of the post page (located above the footer)
   custom:
-    enable: true
-    content: '<img src="https://open.weixin.qq.com/qr/code?username=dgyz20210917" class="rounded mx-auto d-block mt-5" style="width:150px; height:150px;">'
+    enable: flase
+    content: '<img src="" class="rounded mx-auto d-block mt-5" style="width:150px; height:150px;">'
 
   # 文章图片可点击放大
   # Zoom feature of images
@@ -632,7 +632,7 @@ post:
 
     # 开启后，只有在文章 Front-matter 里指定 `math: true` 才会在文章页启动公式转换，以便在页面不包含公式时提高加载速度
     # If true, only set `math: true` in Front-matter will enable math, to load faster when the page does not contain math
-    specific: false
+    specific: true
 
     # Options: mathjax | katex
     engine: mathjax
@@ -646,7 +646,7 @@ post:
 
     # 开启后，只有在文章 Front-matter 里指定 `mermaid: true` 才会在文章页启动公式转换，以便在页面不包含公式时提高加载速度
     # If true, only set `mermaid: true` in Front-matter will enable mermaid, to load faster when the page does not contain mermaid
-    specific: false
+    specific: true
 
     # See: http://mermaid-js.github.io/mermaid/
     options: { theme: 'default' }
@@ -875,10 +875,8 @@ about:
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
-    - { class: "iconfont icon-github-fill", link: "https://github.com/hx163/hongxing", tip: "GitHub" }
-    - { class: "iconfont icon-addrcard", link: "http://www.dgyz.net", tip: "学校" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/公众号.jpg" }
-
+    - { class: "iconfont icon-github-fill", link: "https://github.com/hongxing-chinese/qiuzhen", tip: "GitHub" }
+   
 
 #---------------------------
 # 自定义页
