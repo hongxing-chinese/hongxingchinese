@@ -1,45 +1,44 @@
 navbar:
-  blog_title: "演示站点"
+  blog_title: 红星网-马克思列宁主义论坛
   ground_glass:
     enable: true
 index:
-  banner_img: /images/uploads/background.webp
+  banner_img: https://s1.ax1x.com/2022/05/03/OFTPtP.png
   banner_img_height: 100
   slogan:
-    text: "这是一个演示博客,可以登陆后台实际测试效果"
+    text: 青年一代，要正确把握时代主题与世界发展大势，就不得不学习马克思主义！
 post:
-  banner_img: /images/uploads/mmexport1602581319886.webp
+  banner_img: https://s1.ax1x.com/2022/05/03/OFTpTI.jpg
   banner_img_height: 70
-  default_index_img: /images/uploads/wallhaven-g8wvm7.webp
+  default_index_img: https://s1.ax1x.com/2022/05/03/Ok98mt.jpg
 archive:
-  banner_img: /images/uploads/1616421595370-wallhaven-q6ov7d.jpg
+  banner_img: https://s1.ax1x.com/2022/05/03/OFTkp8.jpg
   banner_img_height: 80
-  subtitle: null
 category:
-  banner_img: /images/uploads/1616421818281-wallhaven-zm93dj.jpg
+  banner_img: https://s1.ax1x.com/2022/05/03/OFT31U.jpg
   banner_img_height: 80
-  subtitle: null
 tag:
-  banner_img: /images/uploads/1616421669417-wallhaven-1kkm2g.jpg
+  banner_img: https://s1.ax1x.com/2022/05/03/OFTS0A.jpg
   banner_img_height: 80
-  subtitle: null
 about:
-  banner_img: /images/uploads/wallhaven-pkkr2.webp
+  banner_img: https://s1.ax1x.com/2022/05/03/OFovOH.jpg
   banner_img_height: 80
-  subtitle: null
-  avatar: /img/avatar.png
-  name: "Fluid"
-  intro: "An elegant theme for Hexo"
+  avatar: https://s1.ax1x.com/2022/05/03/Ok92hF.png
+  name: 红星网
+  intro: 马克思列宁主义论坛
 links:
-  banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
+  banner_img: https://s1.ax1x.com/2022/05/03/OFTn7n.jpg
   banner_img_height: 80
-  subtitle: null
   items:
-    - title: Fluid Repo
-      intro: 主题 GitHub 仓库
-      link: https://github.com/fluid-dev/hexo-theme-fluid
-      avatar: /img/favicon.png
-    - title: 暮雨千泷
-      intro: 青天白日梦神仙
-      link: https://www.myql.xyz
-      avatar: https://cdn.jsdelivr.net/gh/leicancun/img@main/images/avatar.webp
+    - title: 红星时事
+      intro: 国内直连的西方媒体网站的文稿
+      link: https://github.com/hongxing-chinese/news
+      avatar: https://s1.ax1x.com/2022/05/03/Ok9l6A.png
+    - title: 红星投稿
+      intro: 如果你有任何想法，欢迎前往投稿模块写下你的想法
+      link: https://hongxin-chinese-write.mysxl.cn/
+      avatar: https://s1.ax1x.com/2022/05/03/Ok9mFO.png
+    - avatar: https://s1.ax1x.com/2022/05/03/Ok9rmq.jpg
+      link: https://imgtu.com/
+      intro: 路过图床-高速稳定的图片上传和外链服务
+      title: 路过图床

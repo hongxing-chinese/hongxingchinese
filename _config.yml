@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 演示站点
+title: 求真网-实事求是
 subtitle: ''
-description: '这是一个演示站点'
+description: '青年一代，要正确把握时代主题与世界发展大势，就不得不学习马克思主义！'
 keywords:
 author: 
 language: zh-CN
@@ -107,7 +107,6 @@ deploy:
   type: ''
   
 # 永久链接
-# https://github.com/Rozbo/hexo-abbrlink
 # abbrlink config
 abbrlink:
   alg: crc32      #support crc16(default) and crc32
@@ -123,28 +122,23 @@ abbrlink:
   auto_date: false #enable auto date, it can auto fill the date by time today
   force: false #enable force mode,in this mode, the plugin will ignore the cache, and calc the abbrlink for every post even it already had abbrlink.
   
-# 搜索功能
-# https://github.com/next-theme/hexo-generator-searchdb
+# # 本地搜索
 # search:
 #   path: search.xml
 #   field: post
-#   content: true
 #   format: html
+#   limit: 10000
 
 # 站点地图
-# https://github.com/hexojs/hexo-generator-sitemap
 sitemap:
   path: sitemap.xml
-
 # hexo-filter-nofollow
 # https://github.com/hexojs/hexo-filter-nofollow
 nofollow:
   enable: true
   field: site
   exclude:
-
 # hexo-all-minifier
-# https://github.com/chenzhutian/hexo-all-minifier
 all_minifier: true
 html_minifier:
   enable: true
