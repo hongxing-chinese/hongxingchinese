@@ -605,7 +605,7 @@ post:
   # Custom content at the bottom of the post page (located above the footer)
   custom:
     enable: true
-    content: '<img src="https://s1.ax1x.com/2022/05/22/OvoTyQ.png" class="rounded mx-auto d-block mt-5" style="width:297px; height:283px;">'
+    content: '<img src="https://s1.ax1x.com/2022/05/22/OvoTyQ.png" class="rounded mx-auto d-block mt-5" style="width:150px; height:150px;">'
 
   # 文章图片可点击放大
   # Zoom feature of images
