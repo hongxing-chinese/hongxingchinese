@@ -1,5 +1,5 @@
 navbar:
-  blog_title: 红星网-马克思列宁主义论坛
+  blog_title: 求真网-实事求是
   ground_glass:
     enable: true
 index:
@@ -24,20 +24,16 @@ about:
   banner_img: https://s1.ax1x.com/2022/05/03/OFovOH.jpg
   banner_img_height: 80
   avatar: https://s1.ax1x.com/2022/05/03/Ok92hF.png
-  name: 红星网
-  intro: 马克思列宁主义论坛
+  name: 求真网
+  intro: 实事求是
 links:
   banner_img: https://s1.ax1x.com/2022/05/03/OFTn7n.jpg
   banner_img_height: 80
   items:
-    - title: 红星时事
+    - title: 新闻
       intro: 国内直连的西方媒体网站的文稿
       link: https://github.com/hongxing-chinese/news
       avatar: https://s1.ax1x.com/2022/05/03/Ok9l6A.png
-    - title: 红星投稿
-      intro: 如果你有任何想法，欢迎前往投稿模块写下你的想法
-      link: https://hongxin-chinese-write.mysxl.cn/
-      avatar: https://s1.ax1x.com/2022/05/03/Ok9mFO.png
     - avatar: https://s1.ax1x.com/2022/05/03/Ok9rmq.jpg
       link: https://imgtu.com/
       intro: 路过图床-高速稳定的图片上传和外链服务
