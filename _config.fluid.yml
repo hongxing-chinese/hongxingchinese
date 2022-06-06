@@ -972,44 +972,44 @@ static_prefix:
   internal_css: /css
   internal_img: /img
 
-  anchor: https://fastly.jsdelivr.net/npm/anchor-js@4/
+  anchor: https://cdnjs.com/anchor-js@4/
 
-  github_markdown: https://fastly.jsdelivr.net/npm/github-markdown-css@4/
+  github_markdown: https://cdnjs.com/github-markdown-css@4/
 
-  jquery: https://fastly.jsdelivr.net/npm/jquery@3/dist/
+  jquery: https://cdnjs.com/jquery@3/dist/
 
-  bootstrap: https://fastly.jsdelivr.net/npm/bootstrap@4/dist/
+  bootstrap: https://cdnjs.com/bootstrap@4/dist/
 
-  highlightjs: https://fastly.jsdelivr.net/npm/highlight.js@10/
+  highlightjs: https://cdnjs.com/highlight.js@10/
 
-  prismjs: https://fastly.jsdelivr.net/npm/prismjs@1/
+  prismjs: https://cdnjs.com/prismjs@1/
 
-  tocbot: https://fastly.jsdelivr.net/npm/tocbot@4/dist/
+  tocbot: https://cdnjs.com/tocbot@4/dist/
 
-  typed: https://fastly.jsdelivr.net/npm/typed.js@2/lib/
+  typed: https://cdnjs.com/typed.js@2/lib/
 
-  fancybox: https://fastly.jsdelivr.net/npm/@fancyapps/fancybox@3/dist/
+  fancybox: https://cdnjs.com/@fancyapps/fancybox@3/dist/
 
-  nprogress: https://fastly.jsdelivr.net/npm/nprogress@0/
+  nprogress: https://cdnjs.com/nprogress@0/
 
-  mathjax: https://fastly.jsdelivr.net/npm/mathjax@3/es5/
+  mathjax: https://cdnjs.com/mathjax@3/es5/
 
-  katex: https://fastly.jsdelivr.net/npm/katex@0/dist/
+  katex: https://cdnjs.com/katex@0/dist/
 
   busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/
 
-  clipboard: https://fastly.jsdelivr.net/npm/clipboard@2/dist/
+  clipboard: https://cdnjs.com/clipboard@2/dist/
 
-  mermaid: https://fastly.jsdelivr.net/npm/mermaid@8/dist/
+  mermaid: https://cdnjs.com/mermaid@8/dist/
 
-  valine: https://fastly.jsdelivr.net/npm/valine@1/dist/
+  valine: https://cdnjs.com/valine@1/dist/
 
-  waline: https://fastly.jsdelivr.net/npm/@waline/client@1/dist/
+  waline: https://cdnjs.com/@waline/client@1/dist/
 
-  gitalk: https://fastly.jsdelivr.net/npm/gitalk@1/dist/
+  gitalk: https://cdnjs.com/gitalk@1/dist/
 
-  disqusjs: https://fastly.jsdelivr.net/npm/disqusjs@1/dist/
+  disqusjs: https://cdnjs.com/disqusjs@1/dist/
 
-  twikoo: https://fastly.jsdelivr.net/npm/twikoo@1/dist/
+  twikoo: https://cdnjs.com/twikoo@1/dist/
 
-  hint: https://fastly.jsdelivr.net/npm/hint.css@2/
+  hint: https://cdnjs.com/hint.css@2/
