@@ -1,5 +1,5 @@
 ---
-index_img: https://s1.ax1x.com/2022/05/03/OkCYuR.jpg
+index_img: https://i.imgtg.com/2022/06/08/1TgMK.jpg
 title: 巴黎公社的历史和对社会主义的意义
 date: 2021-10-04 14:59:00
 updated: 2021-10-04 14:59:00
