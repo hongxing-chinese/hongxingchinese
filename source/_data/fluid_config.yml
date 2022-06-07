@@ -3,38 +3,38 @@ navbar:
   ground_glass:
     enable: true
 index:
-  banner_img: https://s1.ax1x.com/2022/05/03/OFTPtP.png
+  banner_img: https://i.imgtg.com/2022/06/08/1UFUi.png
   banner_img_height: 100
   slogan:
     text: 青年一代，要正确把握时代主题与世界发展大势，就不得不学习马克思主义！
 post:
-  banner_img: https://s1.ax1x.com/2022/05/03/OFTpTI.jpg
+  banner_img: https://i.imgtg.com/2022/06/08/1Ux9L.jpg
   banner_img_height: 70
-  default_index_img: https://s1.ax1x.com/2022/05/03/Ok98mt.jpg
+  default_index_img: https://i.imgtg.com/2022/06/08/1TcXY.jpg
 archive:
-  banner_img: https://s1.ax1x.com/2022/05/03/OFTkp8.jpg
+  banner_img: https://i.imgtg.com/2022/06/08/1Uavg.jpg
   banner_img_height: 80
 category:
-  banner_img: https://s1.ax1x.com/2022/05/03/OFT31U.jpg
+  banner_img: https://i.imgtg.com/2022/06/08/1UkPC.jpg
   banner_img_height: 80
 tag:
-  banner_img: https://s1.ax1x.com/2022/05/03/OFTS0A.jpg
+  banner_img: https://i.imgtg.com/2022/06/08/1UBNK.jpg
   banner_img_height: 80
 about:
-  banner_img: https://s1.ax1x.com/2022/05/03/OFovOH.jpg
+  banner_img: https://i.imgtg.com/2022/06/08/1UUuS.jpg
   banner_img_height: 80
-  avatar: https://s1.ax1x.com/2022/05/03/Ok92hF.png
+  avatar: https://i.imgtg.com/2022/06/08/1TCPP.png
   name: 中文红星网
   intro: 全世界无产者联合起来！
 links:
-  banner_img: https://s1.ax1x.com/2022/05/03/OFTn7n.jpg
+  banner_img: https://i.imgtg.com/2022/06/08/1UTEa.jpg
   banner_img_height: 80
   items:
     - title: 新闻
       intro: 国内直连的西方媒体网站的文稿
       link: https://github.com/hongxing-chinese/news
-      avatar: https://s1.ax1x.com/2022/05/03/Ok9l6A.png
-    - avatar: https://s1.ax1x.com/2022/05/03/Ok9rmq.jpg
-      link: https://imgtu.com/
-      intro: 路过图床-高速稳定的图片上传和外链服务
-      title: 路过图床
+      avatar: https://i.imgtg.com/2022/06/08/1U5Os.png
+    - avatar: https://i.imgtg.com/2022/06/08/1U7Nj.png
+      link: https://imgtg.com
+      intro: 免费储存并加速你的图片
+      title: TG图床
